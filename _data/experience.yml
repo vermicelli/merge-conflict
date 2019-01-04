@@ -1,18 +1,12 @@
 # Jobs
-# Surftocat
-- company: Self Employed
-  position: Surftocat
-  duration: Life
-  summary: I only live to get radical.
+# Job Title
+- company: Beijing Zhongtong Aobo Technology Co.,Ltd.
+  position: CTO
+  duration: Jun. 2017 &mdash; Present
+  summary: Lead the whole development team.
 
 # Job Title
-- company: Conway Meats
-  position: Web Developer
-  duration: May, 2014 &mdash; May, 2015
-  summary: Web developer for a restuarant meat provider.
-
-# Intern
-- company: GitHub
-  position: Intern - Web Developer - Designer
-  duration:  June, 2017  &mdash; August, 2017
-  summary: Redesigned the services.github.com website without a calendar
+- company: Beijing Sportmoo Technology Co.,Ltd.
+  position: Product Manager
+  duration: Jul. 2014 &mdash; Jun. 2017
+  summary: Define the functionality and experience of core products.
